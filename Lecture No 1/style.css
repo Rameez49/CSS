@@ -1,0 +1,25 @@
+p {
+  background-color: brown;
+  color: blue;
+  /*  PROPERTY: VALUE */
+}
+
+/* here p is 'SELECTOR' and  body is 'DECLARATION,
+
+and here COLOR: is 'PROPERTY
+and BLUE: is VALUE*/
+
+/* TYPES OF SELECTORS 
+
+  1. Universal Selectors: *{}
+  2. Type Selectors: h1,h2,h3 {}
+  3. Class Selectors: .name {}
+  4. ID Selector: #name{}
+  5. Child Selector: li>a {}
+  6. Descendant Selector: p a{}
+  7. Adjacent Sibling Selector: h1+a {}
+  8. General Sibling Selector: h1~p {}
+*/
+
+/* !important tag
+inherit tag  */
