@@ -1,0 +1,36 @@
+
+
+
+               /* TOPICS COVERED
+               
+  1. Font Family
+
+  font-family: Arial, Helvetica, sans-serif;
+
+  2. Font Size
+
+  font-size: 16px;  and font size may be in % form
+  
+  3. Import Font Family
+   
+      @font-face {
+      font-family: "  " ;
+      src: url();
+       }
+
+  4. Font Style
+  
+      font-style:italic;
+      
+  5. Font Transform
+
+      text-transform:uppercase;
+  
+  */
+
+  
+  
+
+ 
+
+  
