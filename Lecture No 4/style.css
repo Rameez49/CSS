@@ -28,6 +28,28 @@
 
     display: inline-block;
 
+    7. Border Image
+
+    8. Box Shadow
+
+      box-shadow: 2px 2px 2px grey;
+
+    8. Border Radius
+
+      border-radius: 10px;
+
+    9. How to make circle in css
+
+      Width and height same and border radius is half of height or width
+
+      like 
+
+      height: 300px;
+      width: 300px;
+
+      border-radius: 150px;
+
 */
+
 
 
