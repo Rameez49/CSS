@@ -1,0 +1,22 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.navbar{
+    background-color: pink;
+    text-decoration: none;
+}
+
+.navbar ul{
+    display: flex;
+    list-style-type: none;
+    text-align: center;
+    margin: 0 0 0 50px;
+    text-decoration: none;
+    
+
+}
+.navbar ul li{
+    padding: 20px;
+  
+}
