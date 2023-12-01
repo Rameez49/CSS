@@ -1,0 +1,36 @@
+/* Learn Flex Box
+
+
+         1. display: flex;
+         2. justify-content: center;
+         3. align-items: center;
+         align items use when we have one line of content
+
+         4. align-content: center;
+         align content use when we have multiple lines of content
+
+         5. flex-direction: column;
+         6. flex-wrap: wrap;
+         7. flex-flow: row wrap;
+         8. gap: 30px;
+
+
+          */
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    flex-direction: column;
+    flex-wrap: wrap;
+    flex-flow: row wrap;
+    gap: 30px;
+    /* ye tamam properties container ki hai ye item main use nahi hongi  */
+}
+.item{
+    order: 1;
+    flex-grow: 3;
+    align-self: self-end;
+
+}
